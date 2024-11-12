@@ -1,0 +1,7 @@
+Itemset,Support
+butter,75.0
+bread,75.0
+milk,50.0
+cheese,50.0
+"butter, milk",50.0
+"butter, bread",50.0

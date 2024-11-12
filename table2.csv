@@ -1,0 +1,15 @@
+OUTLOOK,TEMPERATURE,HUMIDITY,WINDY,PLAY
+sunny,85,85,FALSE,Don't Play
+sunny,80,90,TRUE,Play
+overcast,83,78,FALSE,Play
+rain,70,96,FALSE,Play
+rain,75,80,TRUE,Don't Play
+rain,75,70,TRUE,Play
+overcast,72,65,FALSE,Play
+sunny,69,95,TRUE,Don't Play
+sunny,75,70,TRUE,Play
+rain,72,80,FALSE,Play
+sunny,80,70,TRUE,Play
+overcast,70,90,FALSE,Play
+overcast,78,75,TRUE,Play
+rain,70,80,TRUE,Don't Play

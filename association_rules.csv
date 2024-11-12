@@ -1,0 +1,5 @@
+Antecedent,Consequent,Confidence
+milk,butter,1.0
+butter,milk,0.6666666666666666
+bread,butter,0.6666666666666666
+butter,bread,0.6666666666666666

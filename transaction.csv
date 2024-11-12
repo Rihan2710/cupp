@@ -1,0 +1,7 @@
+TID,Rice,Pulse,Oil,Milk
+1,Rice,Pulse,Oil,
+2,,Pulse,Oil,Milk
+3,,,,Milk
+4,Rice,Pulse,,Milk
+5,Rice,Pulse,Oil,
+6,Rice,Pulse,Oil,Milk
